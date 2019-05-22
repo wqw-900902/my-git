@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/pyLearn.iml" filepath="$PROJECT_DIR$/.idea/pyLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_base_study/.idea/python_base_study.iml" filepath="$PROJECT_DIR$/../python_base_study/.idea/python_base_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TensorFlow/tensorflow_study/.idea/tensorflow_study.iml" filepath="$PROJECT_DIR$/../TensorFlow/tensorflow_study/.idea/tensorflow_study.iml" />
+    </modules>
+  </component>
+</project>
