@@ -6,7 +6,7 @@ print(t1)
 a = tf.constant(10)
 b = tf.constant(20)
 with tf.Session() as sess:
-    c=a+b
+    c = a+b
     r = sess.run(c)
     print(r)
 t2=time.time()
